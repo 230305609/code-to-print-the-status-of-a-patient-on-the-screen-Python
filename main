@@ -1,0 +1,8 @@
+X = 700
+
+if X > 1000:
+  print("Loucurium pythonisticum")
+elif X >= 500 and X <= 1000:    
+  print("Quasy entendenium")
+else:
+  print("paciente estaria nos valores normais")  
